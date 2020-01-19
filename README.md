@@ -8,8 +8,8 @@ html5up.net | @ajlkn
 
 Credits:
 
-  AJ
-  aj@lkn.io | @ajlkn
+  	AJ
+  	aj@lkn.io | @ajlkn
 
 	Icons:
 		Font Awesome (fontawesome.io)
